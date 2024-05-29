@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm ELAVARASAN 👋</h1>
-<h3 align="center">A Talented Developer from India Specializing in Python, and Web Design</h3>
+<h3 align="center">A Talented Developer from India Specializing in Python and Web Design</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=elavarasan-207&label=Profile%20views&color=3e8750&style=flat" alt="elavarasan-207" /> </p>
 
