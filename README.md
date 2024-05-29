@@ -16,7 +16,7 @@
   <a href="mailto:nelavarasan2002@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="email" height="30" width="40" /></a>
   <a href="https://www.linkedin.com/in/elavarasan-n-438876237/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Elavarasan_207" height="30" width="40" /></a>
   <a href="https://github.com/Elavarasan_207" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Elavarasan_207" height="30" width="40" /></a>
-  <a href="[https://www.instagram.com/essences_of_lavanya/](https://www.instagram.com/elavarasan_150/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Elavarasn_207" height="30" width="40" /></a>
+  <a href="https://www.instagram.com/elavarasan_150/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Elavarasn_207" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
